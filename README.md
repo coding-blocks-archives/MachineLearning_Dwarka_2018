@@ -4,3 +4,4 @@
 `class_02`: Numpy, Matplotlib, Statistics<br>
 `class_03`: Pandas, KNN, KNN on MNIST<br>
 `class_04`: OpenCV, Face Detection using Haar Cascade, Face Recognition<br>
+`class_05`: KMeans, Dominant Color Extraction and Image Segmentation<br>
