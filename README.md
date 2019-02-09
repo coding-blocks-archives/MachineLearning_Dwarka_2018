@@ -8,3 +8,5 @@
 `class_06`: Decision Trees, Random Forest<br>
 `class_07`: Principal Component Analysis (PCA)<br>
 `class_08`: [Uni, Multi]Variate Linear Regression<br>
+`class_09`: Logistic Regression<br>
+`class_10`: Neural Network Theory<br>
