@@ -10,3 +10,4 @@
 `class_08`: [Uni, Multi]Variate Linear Regression<br>
 `class_09`: Logistic Regression<br>
 `class_10`: Neural Network Theory<br>
+`class_11`: NN from scratch, Keras Sequential on MNIST<br>
