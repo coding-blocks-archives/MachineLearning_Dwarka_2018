@@ -13,3 +13,4 @@
 `class_11`: NN from scratch, Keras Sequential on MNIST<br>
 `class_12`: Convolutional Neural Networks (CNN)<br>
 `class_13`: [Stacked, Convolutional] AutoEncoders, Keras Functional API<br>
+`class_14`: NLTK, Web Scraping<br>
