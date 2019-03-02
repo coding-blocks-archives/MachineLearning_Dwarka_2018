@@ -14,3 +14,4 @@
 `class_12`: Convolutional Neural Networks (CNN)<br>
 `class_13`: [Stacked, Convolutional] AutoEncoders, Keras Functional API<br>
 `class_14`: NLTK, Web Scraping<br>
+`class_15`: Naive Bayes, Markov Chains (Text Generation)<br>
