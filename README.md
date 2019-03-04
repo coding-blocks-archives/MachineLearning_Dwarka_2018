@@ -15,3 +15,4 @@
 `class_13`: [Stacked, Convolutional] AutoEncoders, Keras Functional API<br>
 `class_14`: NLTK, Web Scraping<br>
 `class_15`: Naive Bayes, Markov Chains (Text Generation)<br>
+`class_16`: Word2Vec with Gensim, Train Word Embeddings (bi-gram context)<br>

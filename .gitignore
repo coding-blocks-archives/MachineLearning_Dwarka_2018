@@ -3,6 +3,9 @@ playground/
 mnist_data/
 *.npy
 
+# trained word2vec binary file
+*.bin
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
