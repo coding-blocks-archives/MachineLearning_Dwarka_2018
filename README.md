@@ -16,3 +16,5 @@
 `class_14`: NLTK, Web Scraping<br>
 `class_15`: Naive Bayes, Markov Chains (Text Generation)<br>
 `class_16`: Word2Vec with Gensim, Train Word Embeddings (bi-gram context)<br>
+`class_17`: RNN, LSTM, GRU<br>
+`class_18`: Transfer Learning, Deep Dream, Neural Art<br>
