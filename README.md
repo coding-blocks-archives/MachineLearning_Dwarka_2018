@@ -18,4 +18,4 @@
 `class_16`: Word2Vec with Gensim, Train Word Embeddings (bi-gram context)<br>
 `class_17`: RNN, LSTM, GRU<br>
 `class_18`: Transfer Learning, Deep Dream, Neural Art<br>
-`class_19`: LSTM Applications<br>
+`class_19`: Seq2Seq, LSTM Applications<br>
