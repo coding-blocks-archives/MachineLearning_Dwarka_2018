@@ -19,3 +19,4 @@
 `class_17`: RNN, LSTM, GRU<br>
 `class_18`: Transfer Learning, Deep Dream, Neural Art<br>
 `class_19`: Seq2Seq, LSTM Applications<br>
+`class_20`: Genetic Algorithms, Intro to RL<br><hr>
