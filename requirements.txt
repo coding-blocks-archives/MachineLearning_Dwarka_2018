@@ -64,7 +64,7 @@ protobuf==3.6.1
 ptyprocess==0.6.0
 pydotplus==2.0.2
 pygame==1.9.4
-Pygments==2.3.1
+Pygments==2.7.4
 pyparsing==2.3.0
 python-dateutil==2.7.5
 pytz==2018.7
